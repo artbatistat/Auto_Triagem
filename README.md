@@ -1,4 +1,4 @@
-# IA_Triagem
+# Auto Triagem
 Application to screening people and classification your urgency.
 
 Objetivo da aplicação
